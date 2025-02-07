@@ -32,7 +32,7 @@ npm install
 
 npm run dev
 
-This Application will be available at: [http://localhost:3000](http://localhost:3000)
+This Application will be available at: https://moviesearch00.netlify.app/
 
 ## Project Structure
 
